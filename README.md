@@ -30,7 +30,7 @@ This website was built using **HTML, CSS, and JavaScript**, with the help of AI 
 
 ## 🌍 Live Website
 
-**Coming soon...**
+https://mubeenauqi.github.io/Mubeena-Kabeer-Portfolio/
 
 ## 🤝 Let's Connect
 
